@@ -1,7 +1,7 @@
 import Comparison from "@/components/comparison";
-import DescriptionSection from "@/components/description-section";
-import HeroContent from "@/components/hero-content";
-import NewsletterSectionn from "@/components/newsletter-section";
+import DescriptionSection from "@/components/description1";
+import HeroContent from "@/components/content";
+import NewsletterSectionn from "@/components/newsletter";
 
 export default function Home() {
   return (
