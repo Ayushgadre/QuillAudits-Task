@@ -43,16 +43,6 @@ yarn dev
 - `public/images/logos`: Contains static assets like images and logos.
 - `README.md`: This file with project information.
 
-## Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository on GitHub.
-2. Create a new branch with a descriptive name: `git checkout -b feature/new-feature`.
-3. Make your changes and commit them: `git commit -am 'Add new feature'`.
-4. Push to the branch: `git push origin feature/new-feature`.
-5. Submit a pull request with detailed information about your changes.
-
 ## Additional Information
 
 - Ensure you have Node.js and npm (or yarn) installed on your machine.
@@ -60,4 +50,4 @@ If you'd like to contribute to this project, please follow these steps:
 - TypeScript helps improve code quality by providing type-checking and better development experience.
 
 
-Happy coding! If you have any questions or need assistance, feel free to reach out.
+Happy coding! If you have any questions or need assistance, feel free to reach out to me.
