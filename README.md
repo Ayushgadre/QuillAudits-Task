@@ -1,18 +1,3 @@
-<!-- # QuillAudits Task
-
-The task was to create a webpage as similar as possible to the provided Figma design using Next.js, Tailwind CSS, TypeScript, and React.This is the Frontend task for Quillhash. 
-
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/Ayushgadre/QuillAudits-Task.git
-   ``` -->
-
-
 # QuillAudits Task
 
 Welcome to the QuillAudits Task project! This is a frontend task for Quillhash where we aim to create a visually appealing webpage based on a provided Figma design. We're using Next.js, Tailwind CSS, TypeScript, and React to build this project.
